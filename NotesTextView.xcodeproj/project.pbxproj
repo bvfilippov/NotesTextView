@@ -85,12 +85,12 @@
 			isa = PBXGroup;
 			children = (
 				0D8F076A2485099D00DA10E4 /* NotesTextView.h */,
-				0D8F076B2485099D00DA10E4 /* Info.plist */,
 				0D8F077C24850A4400DA10E4 /* NotesTextView */,
 				0D8F078D24850A5F00DA10E4 /* TextStyleKeyboard */,
 				0D8F077924850A3300DA10E4 /* Colors */,
 				0D8F077824850A2100DA10E4 /* Fonts */,
 				0D8F079E24850AB400DA10E4 /* AutoLayoutHelper */,
+				0D8F076B2485099D00DA10E4 /* Info.plist */,
 			);
 			path = NotesTextView;
 			sourceTree = "<group>";
@@ -188,7 +188,8 @@
 		0D8F075E2485099D00DA10E4 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 1120;
+				BuildIndependentTargetsInParallel = YES;
+				LastUpgradeCheck = 1540;
 				ORGANIZATIONNAME = "Rimesh Jotaniya";
 				TargetAttributes = {
 					0D8F07662485099D00DA10E4 = {
@@ -402,7 +403,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = ZVRRY5HA82;
+				DEVELOPMENT_TEAM = NAPA2R64DK;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
@@ -429,7 +430,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = ZVRRY5HA82;
+				DEVELOPMENT_TEAM = NAPA2R64DK;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
